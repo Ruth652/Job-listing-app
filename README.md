@@ -2,7 +2,7 @@
 
 A job listing web application built using React, TypeScript, and Tailwind CSS. The platform displays jobs along with their descriptions.
 
-## A Homepage where users view and sort jobs based on different criteria.
+## A Homepage where users view job lists.
 
 ![Job Listing page](./screenshots/page1.png)
 ![Job Listing page](./screenshots/page11.png)
