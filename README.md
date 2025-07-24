@@ -7,7 +7,7 @@ A job listing web application built using React, TypeScript, and Tailwind CSS. T
 ![Job Listing page](./screenshots/page1.png)
 ![Job Listing page](./screenshots/page11.png)
 
-## The detailed job discription page of the selected job.
+## The detailed job description page of the selected job.
 
 ![Description page](./screenshots/page2.png)
 
